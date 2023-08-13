@@ -1,0 +1,7 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+OFFICE_URL = https:/$()/raw.githubusercontent.com/chrishoste/api/master/rooms.json
+// BASIC_AUTH_USER = <USER>
+// BASIC_AUTH_PW = <PW>
