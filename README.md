@@ -1,4 +1,4 @@
-![Frame 9](https://github.com/chrishoste/Schwaetzle/assets/22995847/b5f4c714-f157-4bbc-b8b7-c461e063707d)
+![logo](https://github.com/chrishoste/Schwaetzle/assets/22995847/30170409-b167-4340-aa9f-7480c1207e99)
 
 [![xcode](https://img.shields.io/badge/xcode-15_Beta-green)](https://img.shields.io/badge/xcode-15_Beta-Green)
 [![iOS](https://img.shields.io/badge/iOS-17_Beta-green)](https://img.shields.io/badge/iOS-17_Beta-Green)
@@ -57,10 +57,21 @@ Currently, there is an issue with the `CalendarView` / `DatePicker` in the detai
 
 |Screen |Screen |
 |-------|-------|
-|![1](https://github.com/chrishoste/Schwaetzle/assets/22995847/1b11dbf6-22a7-48b2-ad3b-29536eaaa667)|![2](https://github.com/chrishoste/Schwaetzle/assets/22995847/1f15b889-72b3-46e7-a91f-a8cea1d88c11)|
-|![3](https://github.com/chrishoste/Schwaetzle/assets/22995847/6d28c45f-e0bd-4541-80d3-bf8147ffee43)|![4](https://github.com/chrishoste/Schwaetzle/assets/22995847/0bea5ec8-f85f-4fe6-9558-dd6727432048)|
-|![5](https://github.com/chrishoste/Schwaetzle/assets/22995847/ffd92c4f-04e0-4aaa-8006-7b1032dfaeb4)|![6](https://github.com/chrishoste/Schwaetzle/assets/22995847/5cd9a92e-e89e-4e92-90d1-6cfb3f333a0b)|
-|![7](https://github.com/chrishoste/Schwaetzle/assets/22995847/757dbfd3-5ea6-451d-9063-9edef27a56b6)|![8](https://github.com/chrishoste/Schwaetzle/assets/22995847/495a571f-b6df-4e55-870b-63bfcc12cbc1)|
+|![1](https://github.com/chrishoste/Schwaetzle/assets/22995847/408c519e-83e6-443b-8f0a-311838964e17)|![2](https://github.com/chrishoste/Schwaetzle/assets/22995847/eade5553-37ab-4b3c-82c9-32410ac4b004)|
+|![3](https://github.com/chrishoste/Schwaetzle/assets/22995847/5f4380fb-028a-4597-ac17-dfd1f3364b36)|![4](https://github.com/chrishoste/Schwaetzle/assets/22995847/93eb4747-1341-411f-bd3b-2d1aa6abc10c)|
+|![5](https://github.com/chrishoste/Schwaetzle/assets/22995847/8084f6b1-0dab-4a2c-8af2-f58152a70f53)|![6](https://github.com/chrishoste/Schwaetzle/assets/22995847/9bf7c259-a55c-4365-8071-986d68eda088)|
+|![7](https://github.com/chrishoste/Schwaetzle/assets/22995847/ec76511f-fd71-4f92-93a0-c81d2bbe1e43)|![8](https://github.com/chrishoste/Schwaetzle/assets/22995847/31b33ba7-6a62-4825-a7d4-d13a23dec7f4)|
+|![9](https://github.com/chrishoste/Schwaetzle/assets/22995847/e9bd68bd-a7bf-47f0-a2e7-c658a402a3d2)|![10](https://github.com/chrishoste/Schwaetzle/assets/22995847/3d3d4430-8292-4638-b551-449d2a69d241)|
+
+
+
+
+
+
+
+
+
+
 
 
 
